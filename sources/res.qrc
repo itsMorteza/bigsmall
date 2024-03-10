@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/Image">
+        <file>Ant1.png</file>
+        <file>ant1r.PNG</file>
+        <file>Ant2.png</file>
+        <file>Ant2r.png</file>
+        <file>Block.png</file>
+        <file>Bullet.png</file>
+        <file>Bullet1.png</file>
+        <file>Flower.png</file>
+        <file>Ston-block.png</file>
+        <file>air-020.png</file>
+        <file>air-020.bmp</file>
+        <file>Abr.png</file>
+    </qresource>
+</RCC>
